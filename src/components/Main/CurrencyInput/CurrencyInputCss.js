@@ -6,6 +6,10 @@ const useStyles = makeStyles((theme) => ({
     width: "25ch",
     backgroundColor: "#f5f5f5",
   },
+  input: {
+    backgroundColor: "#f5f5f5",
+    width: "25ch",
+  },
 }));
 
 export { useStyles };
